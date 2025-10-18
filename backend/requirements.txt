@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pandas
+numpy
+pdfminer.six
+pillow
+pytesseract
+matplotlib
+sqlalchemy
+requests
+python-dotenv
